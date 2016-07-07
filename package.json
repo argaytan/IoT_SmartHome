@@ -1,0 +1,11 @@
+{
+  "name": "smarthome",
+  "version": "1.0.0",
+  "description": "Testing node.js for smarthome application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Gaytan",
+  "license": "ISC"
+}
